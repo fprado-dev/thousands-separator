@@ -1,7 +1,7 @@
 ### HOW TO RUN
 
 * npm install
-* npm test
+* npm test ( To run all tests )
 
 # Desafio para programadores Ruby ou JavaScript
 
