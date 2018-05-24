@@ -1,0 +1,31 @@
+{
+  "name": "thousands-separator",
+  "version": "1.0.0",
+  "description": "Utilizando Ruby ou Node.Js, faça:",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chalk": "^2.4.1",
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/raisesistemas/thousands-separator.git"
+  },
+  "keywords": [],
+  "author": "Filipe Prado",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/raisesistemas/thousands-separator#readme"
+}
